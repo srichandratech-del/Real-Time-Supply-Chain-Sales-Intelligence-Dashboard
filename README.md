@@ -1,62 +1,58 @@
-Real-Time Supply Chain & Sales Intelligence Dashboard
+# 📊 Real-Time Supply Chain & Sales Intelligence Dashboard
 
-An enterprise-style Power BI dashboard developed to analyze retail sales, inventory distribution, outlet performance, and supply chain operations in real time.
+A professional Business Intelligence dashboard developed using **Power BI** to analyze retail sales performance, inventory distribution, and supply chain operations through interactive visual analytics and KPI-driven reporting.
 
-This project transforms raw retail data into actionable business insights using interactive visualizations, KPI monitoring, and modern Business Intelligence techniques.
+This project focuses on transforming raw retail data into meaningful business insights to support operational efficiency, strategic decision-making, and performance monitoring across multiple retail outlets.
 
-🚀 Project Overview
+---
 
-The dashboard provides comprehensive analytics for:
+## 🚀 Overview
 
-📈 Sales Performance Tracking
-🏪 Outlet Performance Analysis
-📦 Inventory & Supply Chain Monitoring
-🛒 Product Category Insights
-⭐ Customer Rating Analytics
-📊 Business KPI Reporting
+The dashboard delivers a centralized analytics solution for monitoring:
 
-Designed with a modern navy-blue corporate UI, this project demonstrates practical Business Intelligence and data visualization skills used in real-world analytics environments.
+* Sales performance across outlets
+* Inventory visibility and distribution
+* Product category contribution
+* Outlet-wise operational efficiency
+* Customer-oriented performance metrics
+* Supply chain and retail insights
 
-🎯 Key Features
-📌 Sales Analytics
-Total Sales Monitoring
-Average Sales Analysis
-Sales Trend Visualization
-Outlet-wise Revenue Distribution
-Category Performance Insights
-📌 Supply Chain Insights
-Inventory Visibility Tracking
-Outlet Size Comparison
-Retail Distribution Analysis
-Product Demand Monitoring
-📌 Interactive Dashboard Components
-Dynamic Filters & Slicers
-KPI Cards
-Donut Charts
-Line & Bar Charts
-Matrix Reports
-Interactive Data Exploration
-🛠️ Technologies Used
-Technology	Purpose
-Power BI	Dashboard Development
-DAX	KPI Calculations & Measures
-Power Query	Data Cleaning & Transformation
-SQL	Data Processing
-Excel / CSV	Dataset Source
-📷 Dashboard Preview
-📊 Business Insights Generated
-Tier-wise outlet sales comparison
-High-performing product categories identification
-Inventory visibility monitoring
-Outlet efficiency analysis
-Average sales and customer rating tracking
-💡 Skills Demonstrated
-Business Intelligence
-Data Visualization
-Dashboard Development
-Data Cleaning
-Data Modeling
-DAX Calculations
-Analytical Thinking
-KPI Reporting
-Supply Chain Analytics
+Built with a modern enterprise-style interface, the dashboard demonstrates practical applications of Business Intelligence, data visualization, and analytical reporting techniques used in real-world business environments.
+
+---
+
+## ✨ Key Features
+
+### Sales & Performance Analytics
+
+* Revenue and sales monitoring
+* Average sales analysis
+* Product category performance tracking
+* Outlet-wise sales comparison
+* Trend analysis and KPI reporting
+
+### Supply Chain Intelligence
+
+* Inventory visibility monitoring
+* Outlet distribution analysis
+* Product movement insights
+* Retail operational performance tracking
+
+### Interactive Reporting
+
+* Dynamic slicers and filters
+* KPI cards and summary metrics
+* Donut, bar, and line visualizations
+* Matrix-based analytical reporting
+* Interactive business exploration
+
+---
+
+## 🛠️ Technology Stack
+
+| Technology  | Purpose                           |
+| ----------- | --------------------------------- |
+| Power BI    | Dashboard Development             |
+| DAX         | KPI Calculations & Business Logic |
+| Power Query | Data Cleaning & Transformation    |
+| Excel / CSV | Dataset Source                    |
